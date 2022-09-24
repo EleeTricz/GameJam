@@ -1,7 +1,7 @@
 <H1>Esse repositorio é sobre o projeto da game jam do estado de Pernambuco.</H1>
 
 Nome do jogo: Predind;
-Membros da equipe: José Eriky(Eu) Programador,Silvano Moreira Programador, Nicollas Alves Roteirista, Nayra Letícia e Raquel Batista Artistas.
+Membros da equipe: Eriky Simões(Eu) Programador,Silvano Moreira Programador, Nicollas Alves Roteirista, Nayra Letícia e Raquel Batista Artistas.
 <BR>
  Em Predind tudo começa no terrível dia em que as torres gêmeas foram atacadas, que era um grande símbolo da cidade de Nova York, um prédio com mais de 400 metros de altura. 
 Seu personagem principal se chama Kian e é o subchefe da Torre Norte, o personagem é uma pessoa prepotente que não é empática, orgulhosa, e que não demonstra carinho nem com a própria família.
